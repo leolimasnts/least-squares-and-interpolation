@@ -2,7 +2,7 @@
 
 This comprehensive study explores the application of various regression techniques to solve a series of real-world problems. By examining polynomial regression, film ranking, weight loss prediction, tweet spread modeling, and forensic analysis using Newton's Law of Cooling, the study demonstrates the versatility and effectiveness of both linear and non-linear regression methods. Each case study provides detailed methodologies, results, and discussions, highlighting the importance of model selection, data transformation, and real-world considerations in achieving accurate and meaningful predictions. The overall conclusion synthesizes the key insights and potential future work to further enhance the robustness and applicability of regression techniques in diverse domains.
 
-#Notes
+## Notes
 
 To solve almost all the exercises, I will use some auxiliary functions. These functions will help streamline the process of creating matrices and polynomials for regression analysis.
 
