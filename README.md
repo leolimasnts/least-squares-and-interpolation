@@ -151,7 +151,27 @@ Student preferences were gathered for 14 comparisons between pairs of films, wit
 
 2. Back to the Future 8 x 5 Ferris Bueller's Day Off
 
-...
+3. The Incredibles 10 x 3 Dune
+
+4. Batman Begins 7 x 5 Harry Potter and the Sorcerer's Stone
+
+5. Shrek 11 x 2 Dune
+
+6. Harry Potter 10 x 3 Rocky
+
+7. Toy Story 9 x 4 Back to the Future
+
+8. The Incredibles 9 x 4 Harry Potter and the Sorcerer's Stone
+
+9. Ferris Bueller's Day Off 7 x 5 Dune
+
+10. Back to the Future 7 x 5 Dune
+
+11. Shrek 12 x 1 Rocky
+
+12. The Incredibles 9 x 4 Batman Begins
+
+13. Toy Story 8 x 5 Batman Begins
 
 14. The Incredibles 10 x 3 Ferris Bueller's Day Off
 
